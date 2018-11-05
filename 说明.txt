@@ -1,0 +1,4 @@
+1:采用typescript语言编写
+2:采用mvc架构 
+3:采用websocket连接  
+4:采用protobufjs传输协议  
